@@ -5,6 +5,6 @@
 
 Welcome to the archive for resources shared through the CEMC Summer Conference for Computer Studies Educators.
 
-## By year
+### By year
 
 - [[2024\|2024]]
